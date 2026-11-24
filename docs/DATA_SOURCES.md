@@ -52,3 +52,19 @@ SHA-256 checksums are provided in `data_checksums.sha256`.
 The upstream benchmark files originate from the VG Toolkit
 repository. Dataset-specific redistribution permissions
 must be verified before distributing copies.
+
+## 6. Upstream Software Licence
+
+The VG Toolkit is distributed under the MIT Licence.
+
+Copyright (c) 2014 Erik Garrison.
+
+The upstream software licence and associated third-party
+licence notices are preserved in VG_UPSTREAM_LICENSE.txt.
+
+The original benchmark FASTA and VCF files and generated
+VG/GFA graphs are excluded from this repository.
+
+Dataset-specific licensing has not been independently
+confirmed. The software licence does not establish
+separate redistribution rights for every benchmark file.
