@@ -1,0 +1,6 @@
+start_node,end_node,skipped_nodes,skipped_reference_bp,skipped_reference_steps
+135,137,136,1,1
+210,212,211,2,1
+205,207,206,1,1
+158,160,159,1,1
+102,104,103,1,1

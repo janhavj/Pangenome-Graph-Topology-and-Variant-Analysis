@@ -1,0 +1,7 @@
+segment,sequence,length,in_degree,out_degree
+A,ATGCGTACGA,10,0,1
+B,TTCGATCGAA,10,1,2
+C,GGCTAACGTT,10,1,2
+D,CCGTAAGCTA,10,3,1
+E,AATTCCGGTA,10,1,1
+F,GCTAGCTAGC,10,1,0

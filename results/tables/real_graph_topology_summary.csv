@@ -1,0 +1,9 @@
+metric,value
+total_segments,215
+total_links,296
+reference_path_steps,144
+unique_reference_segments,144
+segments_not_on_reference,71
+connected_components,1
+segment_degree_3_or_more,98
+maximum_segment_degree,4

@@ -1,0 +1,4 @@
+sample,variant_type,ref_start,ref_end,ref_length,alt_length,length_change,ref_nodes,alt_nodes
+insertion,INS,30,30,0,10,10,,E+
+deletion,DEL,20,30,10,0,-10,C+,
+inversion,INV,20,30,10,10,0,C+,C-

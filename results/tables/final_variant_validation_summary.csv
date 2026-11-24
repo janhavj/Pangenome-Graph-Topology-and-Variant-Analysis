@@ -1,0 +1,5 @@
+variant_type,vcf_records,validated_records,concordance_percent
+SNVs,61,61,100.0
+Insertions,8,8,100.0
+Deletions,5,5,100.0
+MNVs,1,1,100.0

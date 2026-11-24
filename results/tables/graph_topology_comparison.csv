@@ -1,0 +1,7 @@
+path_1,path_2,shared_adjacencies,union_adjacencies,adjacency_jaccard,unique_adjacencies_1,unique_adjacencies_2
+reference,insertion,3,6,0.5,1,2
+reference,deletion,2,5,0.4,2,1
+reference,inversion,2,6,0.3333,2,2
+insertion,deletion,2,6,0.3333,3,1
+insertion,inversion,2,7,0.2857,3,2
+deletion,inversion,2,5,0.4,1,2

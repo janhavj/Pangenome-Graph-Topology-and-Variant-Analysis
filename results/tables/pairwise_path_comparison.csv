@@ -1,0 +1,7 @@
+path_1,path_2,shared_oriented_segments,union_oriented_segments,jaccard_similarity,unique_to_path_1,unique_to_path_2
+reference,insertion,5,6,0.8333,,E+
+reference,deletion,4,5,0.8,C+,
+reference,inversion,4,6,0.6667,C+,C-
+insertion,deletion,4,6,0.6667,"C+,E+",
+insertion,inversion,4,7,0.5714,"C+,E+",C-
+deletion,inversion,4,5,0.8,,C-

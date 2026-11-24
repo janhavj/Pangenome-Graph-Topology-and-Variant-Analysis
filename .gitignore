@@ -1,0 +1,31 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# macOS files
+.DS_Store
+
+# IDE configuration
+.vscode/
+.idea/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables
+.env
+.env.*
+
+# Upstream benchmark inputs and generated graphs
+data/raw/vg_example/
+data/processed/vg_example/

@@ -1,0 +1,20 @@
+H	VN:Z:1.0
+S	A	ATGCGTACGA
+S	B	TTCGATCGAA
+S	C	GGCTAACGTT
+S	D	CCGTAAGCTA
+S	E	AATTCCGGTA
+S	F	GCTAGCTAGC
+L	A	+	B	+	0M
+L	B	+	C	+	0M
+L	B	+	C	-	0M
+L	B	+	D	+	0M
+L	C	+	D	+	0M
+L	C	+	E	+	0M
+L	C	-	D	+	0M
+L	D	+	F	+	0M
+L	E	+	D	+	0M
+P	reference	A+,B+,C+,D+,F+	*,*,*,*
+P	insertion	A+,B+,C+,E+,D+,F+	*,*,*,*,*
+P	deletion	A+,B+,D+,F+	*,*,*
+P	inversion	A+,B+,C-,D+,F+	*,*,*,*
